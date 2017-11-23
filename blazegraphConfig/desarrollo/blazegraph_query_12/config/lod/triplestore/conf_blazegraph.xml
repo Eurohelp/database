@@ -1,0 +1,3 @@
+<Context docBase="/aplic/lod/blazegraph_query_12.war" path="/blazegraph" reloadable="true">
+	<Resources className="org.apache.catalina.webresources.StandardRoot"/>
+</Context>
